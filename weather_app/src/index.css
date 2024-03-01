@@ -1,0 +1,68 @@
+.App {
+  background-color: rgb(159, 80, 80);
+}
+h1 {
+  text-align: center;
+}
+.search {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+.search-box {
+  border: 1px solid black;
+  display: block;
+  width: 90%;
+  height: 40px;
+  margin: 40px auto 10px;
+  padding: 5px;
+  font-size: 25px;
+  text-transform: capitalize;
+  text-align: center;
+}
+button {
+  width: 100px;
+  height: 30px;
+  color: white;
+  font-size: 50px;
+  background-color: rgba(59, 187, 67, 0.865);
+  border: 1px solid white;
+}
+.weather-container {
+  margin: 40px;
+  border: 2px solid aliceblue;
+  border-radius: 100%;
+  height: 300px;
+  text-align: center;
+  color: aliceblue;
+}
+
+.weather-container h1 {
+  text-align: center;
+  font-size: 100px;
+}
+.weather-container h2 {
+  font-size: 40px;
+}
+
+.app-name {
+  padding: 60px;
+
+  font-size: 50px;
+  color: aliceblue;
+}
+.App {
+  height: 100vh;
+}
+.container {
+  margin-top: 10%;
+}
+span {
+  font-size: 20px;
+}
+.extra-info {
+  color: aliceblue;
+  border: 1px solid aliceblue;
+  background-color: rgb(124, 66, 66);
+  padding: 15px;
+}
